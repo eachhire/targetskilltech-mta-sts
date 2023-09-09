@@ -1,0 +1,6 @@
+version: STSv1
+mode: testing
+mx: smtp.google.com
+mx: mxa.mailgun.org
+mx: mxb.mailgun.org
+max_age: 604800
